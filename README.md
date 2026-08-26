@@ -13,7 +13,7 @@
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java," />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java" />
 </p>
 
 ### 🎨 Frontend
@@ -31,13 +31,13 @@
 ### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase," />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
 </p>
 
 ### 🔧 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
 </p>
 
 ---
