@@ -1,23 +1,19 @@
-# 👋 About Me
+# Hi👋 I'm Supun Rashmika 
+## 🧑‍💻 Currently a **`Software Engineering Student`**
+  
+## 🚀 What I'm passionate about
 
-* 🎓 Currently a **Software Engineering undergraduate**
-* 💡 Passionate about building **unique, interactive, and creative web applications**
-* 🚀 Interested in turning ideas into modern and user-friendly digital experiences
-
-## 🧠 My Focus Areas
-
-* 🎨 UI/UX Design
 * 🌐 Frontend Web Development
+* 🎨 UI/UX Design
 * ⚙️ Full-Stack Web Development
-* 📱 Responsive Web Applications
-* 🎥 Photography / Cinematography
-
+* 🤖 AI & Emerging Technologies
+  
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java," />
 </p>
 
 ### 🎨 Frontend
@@ -29,23 +25,19 @@
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase," />
 </p>
 
 ### 🔧 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
-
-<p align="center">
-  ✨ <i>Building things, learning continuously, and turning ideas into reality.</i> ✨
-</p>
