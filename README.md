@@ -1,5 +1,6 @@
 # Hi👋 I'm Supun Rashmika 
-## 🧑‍💻 Currently a **`Software Engineering Student`**
+## 🧑‍💻 **`Software Engineering Student & a Designer`**
+
   
 ## 🚀 What I'm passionate about
 
