@@ -3,9 +3,8 @@
   
 ## 🚀 What I'm passionate about
 
-* 🌐 Frontend Web Development
+* 🌐 Full-Stack Web Development
 * 🎨 UI/UX Design
-* ⚙️ Full-Stack Web Development
 * 🤖 AI & Emerging Technologies
   
 ## 🛠️ Languages & Tools
@@ -37,7 +36,7 @@
 ### 🔧 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
 </p>
 
 ---
