@@ -19,7 +19,7 @@
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
 </p>
 
 ### ⚙️ Backend
@@ -31,7 +31,7 @@
 ### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb" />
 </p>
 
 ### 🔧 Tools & Technologies
