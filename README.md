@@ -31,7 +31,7 @@
 ### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 </p>
 
 ### 🔧 Tools & Technologies
