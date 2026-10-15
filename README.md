@@ -33,11 +33,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 </p>
-
-### 🔧 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
-</p>
-
----
