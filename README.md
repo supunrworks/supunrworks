@@ -1,7 +1,6 @@
 # Hi👋 I'm Supun Rashmika 
 ## 🧑‍💻 **`Software Engineering Student & a Designer`**
 
-  
 ## 🚀 What I'm passionate about
 
 * 🌐 Full-Stack Web Development
@@ -10,26 +9,18 @@
   
 ## 🛠️ Languages & Tools
 
-### 💻 Programming Languages
-
-<p align="center">
+###  Programming Languages
   <img src="https://skillicons.dev/icons?i=python,js,ts,java" />
-</p>
 
-### 🎨 Frontend
-
-<p align="center">
+###  Frontend
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
-</p>
 
-### ⚙️ Backend
-
-<p align="center">
+###  Backend
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p align="center">
+  
+###  Database
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
-</p>
+
+### Tools
+  <img src="https://skillicons.dev/icons?i=figma,docker,vercel,githubactions,prisma" />
+  
